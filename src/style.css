@@ -1,0 +1,52 @@
+td{
+    height : 50px;
+    width: 50px;
+	background-color: black;
+	border-radius: 10px;
+}
+body{
+    background-color: white;
+    margin-top: 180px
+    
+    
+}
+#grid{
+    margin-top: 50px;
+   margin-left: 350px
+
+}
+
+   
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px;
+ 
+    border: 20px
+
+}
+
+button {
+    /* // transition-duration: 0.4s; */
+    background-color: none
+;
+    
+    cursor: pointer;
+    
+    color: black;
+    margin-right: 20px
+
+  
+
+
+  }
+  
+  .button:hover {
+    
+    background-color: white;
+  }
+  h2{
+      font-size: 2rem;
+      text-align:center
+  }
